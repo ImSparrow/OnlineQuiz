@@ -1,3 +1,6 @@
 [submodule "rooms"]
 	path = rooms
 	url = https://github.com/ImSparrow/OnlineQuiz1
+[submodule "weather"]
+	path = weather
+	url = https://github.com/ImSparrow/OnlineWeather
